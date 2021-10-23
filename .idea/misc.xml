@@ -5,9 +5,16 @@
       <map>
         <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15885416666666666" />
         <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/drawable/custonborder.xml" value="0.15885416666666666" />
-        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_about.xml" value="0.27291666666666664" />
-        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_detectives.xml" value="0.27291666666666664" />
+        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_about.xml" value="0.16" />
+        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_criminal_cases.xml" value="0.21" />
+        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_department.xml" value="0.33" />
+        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_detectives.xml" value="0.25" />
+        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_main.xml" value="0.16" />
         <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_main_menu.xml" value="0.33" />
+        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_photo_robot.xml" value="0.27291666666666664" />
+        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_register_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_sign_in.xml" value="0.27291666666666664" />
+        <entry key="..\:/projects/androidstudio/myapp/app/src/main/res/layout/activity_wanted.xml" value="0.2" />
       </map>
     </option>
   </component>

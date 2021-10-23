@@ -8,7 +8,7 @@
 
 
     <TextView
-        android:id="@+id/textView11"
+        android:id="@+id/textViewAbout"
         android:layout_width="376dp"
         android:layout_height="416dp"
         android:text="WSK Police - Оперативно-розыскная \n
@@ -26,13 +26,13 @@
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintHorizontal_bias="0.571"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.717" />
+        app:layout_constraintVertical_bias="0.796" />
 
     <ImageView
-        android:id="@+id/imageView8"
+        android:id="@+id/imageViewCop"
         android:layout_width="123dp"
         android:layout_height="119dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -40,7 +40,7 @@
         app:layout_constraintHorizontal_bias="0.107"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.112"
+        app:layout_constraintVertical_bias="0.156"
         app:srcCompat="@drawable/cop" />
 
     <TextView
@@ -55,14 +55,14 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toEndOf="@+id/imageView8"
+        app:layout_constraintStart_toEndOf="@+id/imageViewCop"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.103" />
+        app:layout_constraintVertical_bias="0.133" />
 
     <FrameLayout
         android:id="@+id/frameLayout"
-        android:layout_width="416dp"
-        android:layout_height="53dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
         android:layout_marginBottom="666dp"
         android:background="@color/green"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -77,7 +77,7 @@
             android:layout_width="32dp"
             android:layout_height="27dp"
             android:layout_marginStart="20dp"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="20dp"
             app:srcCompat="@drawable/backarr" />
 
         <TextView
@@ -85,7 +85,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="160dp"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="20dp"
             android:fontFamily="@font/scada"
             android:gravity="center"
             android:text="About Us"
@@ -104,7 +104,7 @@
         app:layout_constraintHorizontal_bias="0.935"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.237" />
+        app:layout_constraintVertical_bias="0.262" />
 
     <ImageView
         android:id="@+id/imageView9"
@@ -115,7 +115,7 @@
         app:layout_constraintHorizontal_bias="0.068"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.861"
+        app:layout_constraintVertical_bias="0.9"
         app:srcCompat="@drawable/worldskills" />
 
     <TextView
@@ -130,9 +130,9 @@ Development '
         android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.927"
+        app:layout_constraintHorizontal_bias="0.932"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.862" />
+        app:layout_constraintVertical_bias="0.9" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
